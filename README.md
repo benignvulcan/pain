@@ -2,7 +2,7 @@
 
 Interactive "art" generator.
 
-![pain screenshot](Screen Shot 2022-04-05 at 7.18.03 PM.png?raw=true)
+![PAIN screenshot](ScreenShot_2022-04-05_1918.03.png)
 
 ## Features
 
